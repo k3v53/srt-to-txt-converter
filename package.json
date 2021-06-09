@@ -1,0 +1,11 @@
+{
+  "name": "srt-to-txt-converter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "k3v53",
+  "license": "ISC"
+}
