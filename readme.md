@@ -1,6 +1,6 @@
 # srt to txt converter
 
-This a really simple tool takes a srt file and removes everything that is not relevant as text.
+This really simple tool takes a srt file and removes everything that is not relevant as text.
 
 ## Usage
 
